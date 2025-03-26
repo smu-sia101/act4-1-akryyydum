@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetNameGenerator", "PetNameGenerator\PetNameGenerator.csproj", "{A20E5883-5390-4EB0-AFAC-EBC4D29FC34E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A20E5883-5390-4EB0-AFAC-EBC4D29FC34E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A20E5883-5390-4EB0-AFAC-EBC4D29FC34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A20E5883-5390-4EB0-AFAC-EBC4D29FC34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A20E5883-5390-4EB0-AFAC-EBC4D29FC34E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC7D2F32-E22E-4C71-B631-5FFE1E57FC2B}
+	EndGlobalSection
+EndGlobal
